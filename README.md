@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with [Web & React Native Developer](https://github.com/DeveloperYamin)
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-web-bd.netlify.app](https://my-portfolio-web-bd.netlify.app)
+- 👨‍💻 All of my projects are available at [https://full-stack-portfolio-web.vercel.app](https://full-stack-portfolio-web.vercel.app)
 
-- 📝 I regularly write articles on [https://my-portfolio-web-bd.netlify.app](https://my-portfolio-web-bd.netlify.app)
+- 📝 I regularly write articles on [https://full-stack-portfolio-web.vercel.app](https://full-stack-portfolio-web.vercel.app)
 
 - 💬 Ask me about **Web & React Native Developer**
 
 - 📫 How to reach me **developer.yamin@gmail.com**
 
-- 📄 Know about my experiences [https://my-portfolio-web-bd.netlify.app](https://my-portfolio-web-bd.netlify.app)
+- 📄 Know about my experiences [https://full-stack-portfolio-web.vercel.app](https://full-stack-portfolio-web.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
