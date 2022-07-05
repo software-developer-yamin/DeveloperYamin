@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yamin</h1>
-<h3 align="center">Web & React Native Developer</h3>
+<h3 align="center">MERN STACK DEVELOPER WITH NEXTJS & REACT NATIVE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developeryamin&label=Profile%20views&color=0e75b6&style=flat" alt="developeryamin" /> </p>
 
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/developeryamin" target="blank"><img src="https://img.shields.io/twitter/follow/developeryamin?logo=twitter&style=for-the-badge" alt="developeryamin" /></a> </p>
 
-- 🔭 I’m currently working on [Web & React Native Developer](https://github.com/DeveloperYamin?tab=repositories)
+- 🔭 I’m currently working on [MERN STACK DEVELOPER WITH NEXTJS & REACT NATIVE](https://github.com/DeveloperYamin?tab=repositories)
 
-- 🌱 I’m currently learning **Web & React Native Developer**
+- 🌱 I’m currently learning **MERN STACK DEVELOPER WITH NEXTJS & REACT NATIVE**
 
-- 👯 I’m looking to collaborate on [Web & React Native Developer](https://github.com/DeveloperYamin?tab=repositories)
+- 👯 I’m looking to collaborate on [MERN STACK DEVELOPER WITH NEXTJS & REACT NATIVE](https://github.com/DeveloperYamin?tab=repositories)
 
-- 🤝 I’m looking for help with [Web & React Native Developer](https://github.com/DeveloperYamin)
+- 🤝 I’m looking for help with [MERN STACK DEVELOPER WITH NEXTJS & REACT NATIVE](https://github.com/DeveloperYamin)
 
 - 👨‍💻 All of my projects are available at [https://full-stack-portfolio-web.vercel.app](https://full-stack-portfolio-web.vercel.app)
 
 - 📝 I regularly write articles on [https://full-stack-portfolio-web.vercel.app](https://full-stack-portfolio-web.vercel.app)
 
-- 💬 Ask me about **Web & React Native Developer**
+- 💬 Ask me about **MERN STACK DEVELOPER WITH NEXTJS & REACT NATIVE**
 
 - 📫 How to reach me **developer.yamin@gmail.com**
 
